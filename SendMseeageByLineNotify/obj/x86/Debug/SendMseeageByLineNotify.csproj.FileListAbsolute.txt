@@ -1,0 +1,5 @@
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\x86\Debug\SendMseeageByLineNotify.exe.config
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\x86\Debug\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\x86\Debug\SendMseeageByLineNotify.pdb
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\x86\Debug\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\x86\Debug\SendMseeageByLineNotify.pdb

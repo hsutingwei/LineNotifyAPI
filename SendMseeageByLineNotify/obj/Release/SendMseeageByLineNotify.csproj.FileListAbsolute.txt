@@ -1,0 +1,8 @@
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Release\SendMseeageByLineNotify.exe.config
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Release\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Release\SendMseeageByLineNotify.pdb
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Release\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Release\SendMseeageByLineNotify.pdb
+D:\Yves\projects\20190812_Line傳圖API\ForGit\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Release\SendMseeageByLineNotify.exe.config
+D:\Yves\projects\20190812_Line傳圖API\ForGit\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Release\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\ForGit\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Release\SendMseeageByLineNotify.pdb

@@ -1,0 +1,6 @@
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Debug\SendMseeageByLineNotify.exe.config
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Debug\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\bin\Debug\SendMseeageByLineNotify.pdb
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Debug\SendMseeageByLineNotify.exe
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Debug\SendMseeageByLineNotify.pdb
+D:\Yves\projects\20190812_Line傳圖API\SendMseeageByLineNotify\SendMseeageByLineNotify\obj\Debug\SendMseeageByLineNotify.csprojResolveAssemblyReference.cache
